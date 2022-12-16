@@ -1,6 +1,6 @@
 .main-div{
-    background-color: #c4c4c4;
-    border: 3px solid grey;
+    background-color: #7bbaee;
+    border: 3px solid rgb(0, 0, 0);
     margin: 5px;
     padding: 5px;
 }
@@ -19,8 +19,9 @@ input{
 }
 
 #my_add_btn{
-    background: rgb(77, 255, 0);
+    background: rgba(20, 38, 240, 0.643);
     width: 100px;
+    color:white
 }
 
 #delete-btn{
@@ -29,9 +30,9 @@ input{
 }
 
 ul{
-    background-color: rgb(181, 181, 181);
+    background-color: rgb(255, 255, 255);
     border: 2px solid rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    color: rgb(1, 1, 1);
     margin: auto;
     width: 100%;
     padding: 5px;
